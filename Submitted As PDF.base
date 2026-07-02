@@ -9,9 +9,18 @@ views:
         - file.ext == "md"
     order:
       - file.name
-      - Printed To PDF
       - Submitted
-      - tags
-    sort: []
+      - IsSubmittable
+      - Comments
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Comments
+        direction: ASC
+      - property: Printed To PDF
+        direction: DESC
     summaries:
       file.tags: Filled
+    columnSize:
+      file.name: 291
+      note.IsSubmittable: 129

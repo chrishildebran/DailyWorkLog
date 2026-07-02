@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Printed To PDF": "checkbox",
-    "Submitted": "checkbox"
+    "Submitted": "checkbox",
+    "Comments": "multitext",
+    "IsSubmittable": "checkbox"
   }
 }
