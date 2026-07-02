@@ -9,7 +9,9 @@ views:
         - file.ext == "md"
     order:
       - file.name
-      - file.tags
-    sort:
-      - property: file.tags
-        direction: DESC
+      - Printed To PDF
+      - Submitted
+      - tags
+    sort: []
+    summaries:
+      file.tags: Filled
