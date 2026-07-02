@@ -26,14 +26,13 @@
             "id": "c3f0f205bda95926",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "2026/Manic Time/2026.06.18 - Daily Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "Submitted As PDF.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2026.06.18 - Daily Summary"
+              "icon": "lucide-table",
+              "title": "Submitted As PDF"
             }
           }
         ],
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 564.5
   },
   "right": {
     "id": "49219b0e1208bd81",
@@ -184,11 +183,24 @@
   },
   "active": "c3f0f205bda95926",
   "lastOpenFiles": [
+    "README.md",
+    "2026/All 2026 Work Logs Lost Prior To April 2026 IT Attack.md",
+    "2025/All 2025 Work Logs Lost In April 2026 IT Attack.md",
+    "2024/All 2024 Work Logs Lost In April 2026 IT Attack.md",
+    "2023/All 2023 Work Logs Lost In April 2026 IT Attack.md",
+    "2022/All 2022 Work Logs Lost In April 2026 IT Attack.md",
+    "2021/All 2021 Work Logs Lost In April 2026 IT Attack.md",
+    "2020/All 2020 Work Logs Lost In April 2026 IT Attack.md",
+    "2019/All 2019 Work Logs Lost In April 2026 IT Attack.md",
+    "2018/All 2018 Work Logs Lost In April 2026 IT Attack.md",
+    "2017/All 2017 Work Logs Lost In April 2026 IT Attack.md",
+    "2026/2026.06.29 Work Log Of Chris Hildebran.md",
+    "2026/2026.06.30 Work Log Of Chris Hildebran.md",
+    "2026/2026.07.01 Work Log Of Chris Hildebran.md",
+    "2026/2026.07.02 Work Log Of Chris Hildebran.md",
     "Submitted As PDF.base",
     "2026/Manic Time/2026.06.18 - Daily Summary.md",
     "Templates/Template.md",
-    "2026/2026.07.02 Work Log Of Chris Hildebran.md",
-    "2017/All 2017 Work Logs Lost In April 2026 IT Attack.md",
     "2026/Manic Time/2026.06.22 - Daily Summary.pdf",
     "2026/Manic Time/2026.06.22 - Daily Summary.md",
     "2026/Manic Time/2026.02.24 - Daily Summary.pdf",
@@ -200,17 +212,6 @@
     "2026/Manic Time/2026.02.19 - Daily Summary.pdf",
     "2026/Manic Time/2026.02.16 - Daily Summary.pdf",
     "2026/Manic Time/2026.02.18 - Daily Summary.pdf",
-    "2026/2026.07.01 Work Log Of Chris Hildebran.md",
-    "2026/2026.06.30 Work Log Of Chris Hildebran.md",
-    "2026/2026.06.29 Work Log Of Chris Hildebran.md",
-    "2018/All 2018 Work Logs Lost In April 2026 IT Attack.md",
-    "2019/All 2019 Work Logs Lost In April 2026 IT Attack.md",
-    "2020/All 2020 Work Logs Lost In April 2026 IT Attack.md",
-    "2021/All 2021 Work Logs Lost In April 2026 IT Attack.md",
-    "2022/All 2022 Work Logs Lost In April 2026 IT Attack.md",
-    "2023/All 2023 Work Logs Lost In April 2026 IT Attack.md",
-    "2024/All 2024 Work Logs Lost In April 2026 IT Attack.md",
-    "2025/All 2025 Work Logs Lost In April 2026 IT Attack.md",
     "2017 - Copy/All 2017 Work Logs Lost In April 2026 IT Attack.md",
     "Manic Time/2026.04.07 - Daily Summary.md",
     "Manic Time/2026.06.18 - Daily Summary.md",
@@ -218,7 +219,6 @@
     "2026.07.02 Work Log Of Chris Hildebran.md",
     "2026.07.01 Work Log Of Chris Hildebran.md",
     "2026.06.30 Work Log Of Chris Hildebran.md",
-    "2026.06.29 Work Log Of Chris Hildebran.md",
     "Release Notes/KTR 202n Testing_files/Image_077.png",
     "Release Notes/KTR 202n Testing_files/Image_076.png",
     "Release Notes/KTR 202n Testing_files/Image_075.png",

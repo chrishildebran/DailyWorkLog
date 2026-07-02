@@ -7,6 +7,8 @@ views:
     filters:
       and:
         - file.ext == "md"
+        - IsSubmittable == true
+        - '!file.path.containsAll("Templates/Template")'
     order:
       - file.name
       - Submitted
@@ -22,5 +24,13 @@ views:
     summaries:
       file.tags: Filled
     columnSize:
-      file.name: 291
+      file.name: 333
       note.IsSubmittable: 129
+  - type: cards
+    name: As Cards
+    groupBy:
+      property: IsSubmittable
+      direction: ASC
+    sort:
+      - property: file.name
+        direction: ASC
