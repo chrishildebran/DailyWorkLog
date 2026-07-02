@@ -26,13 +26,14 @@
             "id": "c3f0f205bda95926",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Submitted As PDF.base",
-                "viewName": "Table"
+                "file": "2026/2026.07.02 Work Log Of Chris Hildebran.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Submitted As PDF"
+              "icon": "lucide-file",
+              "title": "2026.07.02 Work Log Of Chris Hildebran"
             }
           }
         ],
@@ -183,6 +184,7 @@
   },
   "active": "c3f0f205bda95926",
   "lastOpenFiles": [
+    "Submitted As PDF.base",
     "README.md",
     "2026/All 2026 Work Logs Lost Prior To April 2026 IT Attack.md",
     "2025/All 2025 Work Logs Lost In April 2026 IT Attack.md",
@@ -198,7 +200,6 @@
     "2026/2026.06.30 Work Log Of Chris Hildebran.md",
     "2026/2026.07.01 Work Log Of Chris Hildebran.md",
     "2026/2026.07.02 Work Log Of Chris Hildebran.md",
-    "Submitted As PDF.base",
     "2026/Manic Time/2026.06.18 - Daily Summary.md",
     "Templates/Template.md",
     "2026/Manic Time/2026.06.22 - Daily Summary.pdf",
@@ -218,7 +219,6 @@
     "Manic Time/2026.06.22 - Daily Summary.md",
     "2026.07.02 Work Log Of Chris Hildebran.md",
     "2026.07.01 Work Log Of Chris Hildebran.md",
-    "2026.06.30 Work Log Of Chris Hildebran.md",
     "Release Notes/KTR 202n Testing_files/Image_077.png",
     "Release Notes/KTR 202n Testing_files/Image_076.png",
     "Release Notes/KTR 202n Testing_files/Image_075.png",
