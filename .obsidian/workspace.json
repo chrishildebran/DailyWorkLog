@@ -8,31 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca4240f16e32e5f3",
+            "id": "4027233778f6bfd5",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Submitted As PDF.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Notes"
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Submitted As PDF"
             }
           },
           {
-            "id": "4027233778f6bfd5",
+            "id": "0dd366090225c974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026.06.30 Work Log.md",
+                "file": "Manic Time/2026.06.22 - Daily Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.06.30 Work Log"
+              "title": "2026.06.22 - Daily Summary"
             }
           }
         ],
@@ -181,10 +182,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "4027233778f6bfd5",
+  "active": "0dd366090225c974",
   "lastOpenFiles": [
-    "2026.06.29 Work Log.md",
-    "2026.06.30 Work Log.md",
+    "asdf.md",
+    "Manic Time/2026.06.22 - Daily Summary.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Submitted As PDF.base",
+    "Manic Time/2026.02.16 - Daily Summary.pdf",
+    "2026.07.02 Work Log Of Chris Hildebran.md",
+    "2026.07.01 Work Log Of Chris Hildebran.md",
+    "2026.06.30 Work Log Of Chris Hildebran.md",
+    "2026.06.29 Work Log Of Chris Hildebran.md",
+    "Templates/Template.md",
+    "Templates",
+    "README.md",
     "Manic Time/2026.06.22 - Daily Summary.pdf",
     "2026.06.29 Pull Requests.md",
     "Manic Time",
@@ -207,18 +219,7 @@
     "TaskNotes/Views/agenda-default.base",
     "To Organize/KTR 202n Testing.pdf",
     "To Organize/Kelly Tools Requirements.md",
-    "Untitled.base",
     "To Organize/2025 Goal Ideas.md",
-    "To Organize/Cycle 81 Update.pdf",
-    "To Organize/Cycle Outline.md",
-    "Release Notes/Kelly Tools For Revit Release Notes - 26.3.17.832.pdf",
-    "Release Notes/Kelly Tools For Revit Release Notes - 2026.03.12.0918 (.md",
-    "templates/Template.md",
-    "Tool Issues/About.md",
-    "Tool Issues/Vicious File Based System Pipe Place Command.md",
-    "Tool Issues/Vicious Fabrication Hanger Instance Place Command.md",
-    "Tool Issues/Arrange Instance Align Move Command.md",
-    "Tool Issues/Many Connect Command.md",
     "Release Notes/KTR 202n Testing_files/Image_077.png",
     "Release Notes/KTR 202n Testing_files/Image_076.png",
     "Release Notes/KTR 202n Testing_files/Image_075.png",
