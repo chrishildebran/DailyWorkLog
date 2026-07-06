@@ -1,4 +1,5 @@
 {
   "format": "YYYY.MM.DD",
-  "template": "Templates/Template"
+  "template": "Templates/Template",
+  "folder": "2026"
 }
