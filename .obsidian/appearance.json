@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "accentColor": "",
+  "showViewHeader": true,
+  "showRibbon": true
 }
