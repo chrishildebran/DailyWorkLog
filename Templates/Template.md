@@ -17,7 +17,7 @@ https://github.com/jhkweb/Kelly-Revit-Logic/pull/
 
 ### PR Summary
 
-## Kelly Windows Logic
+## Kelly Windows
 https://github.com/jhkweb/Kelly-Windows-Logic/pull/
 ### PR Classification
 
